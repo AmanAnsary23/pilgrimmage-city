@@ -42,6 +42,10 @@ Users can select **pandits**, **temples**, and **food locations**, and the syste
 --After Inserting all informations
 <img width="1351" height="887" alt="Screenshot 2025-11-27 145520" src="https://github.com/user-attachments/assets/b4978efd-fedd-4443-96d4-5be0d61c2beb" />
 
+**I User Chatgpt to generating the following database:
+--20 pandit data
+--20 temples data
+--20 food places data
 
 ##Note 
 Integrating street views , route and loaction asking for billing in google gemini api , so i just place map 
