@@ -1,0 +1,753 @@
+[
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 1,
+    "fields": {
+      "name": "Pandit Raghav Sharma",
+      "description": "Expert in Vedic rituals and poojas.",
+      "phone": "9876543210",
+      "deity": "Shiva",
+      "latitude": 26.8501,
+      "longitude": 80.9490
+    }
+  },
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 2,
+    "fields": {
+      "name": "Pandit Arun Mishra",
+      "description": "Performs marriage rituals and Grih Pravesh.",
+      "phone": "9823456780",
+      "deity": "Vishnu",
+      "latitude": 26.8532,
+      "longitude": 80.9455
+    }
+  },
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 3,
+    "fields": {
+      "name": "Pandit Harish Tiwari",
+      "description": "Astrology and Vaastu specialist.",
+      "phone": "9988776655",
+      "deity": "Durga",
+      "latitude": 26.8541,
+      "longitude": 80.9401
+    }
+  },
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 4,
+    "fields": {
+      "name": "Pandit Suresh Pandey",
+      "description": "Performs special poojas and homams.",
+      "phone": "9876501234",
+      "deity": "Hanuman",
+      "latitude": 26.8585,
+      "longitude": 80.9470
+    }
+  },
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 5,
+    "fields": {
+      "name": "Pandit Mohan Pathak",
+      "description": "Expert in Sanskrit shlokas.",
+      "phone": "9765432109",
+      "deity": "Krishna",
+      "latitude": 26.8601,
+      "longitude": 80.9432
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 6,
+    "fields": {
+      "name": "Pandit Rajesh Dubey",
+      "description": "Performs Satyanarayan Katha.",
+      "phone": "9833456722",
+      "deity": "Vishnu",
+      "latitude": 26.8611,
+      "longitude": 80.9422
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 7,
+    "fields": {
+      "name": "Pandit Vinay Chaturvedi",
+      "description": "Performs Navgrah Shanti Pooja.",
+      "phone": "9998877665",
+      "deity": "Surya",
+      "latitude": 26.8621,
+      "longitude": 80.9491
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 8,
+    "fields": {
+      "name": "Pandit Deepak Shastri",
+      "description": "Specialist in Maha Mrityunjay Jaap.",
+      "phone": "9856671234",
+      "deity": "Shiva",
+      "latitude": 26.8635,
+      "longitude": 80.9461
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 9,
+    "fields": {
+      "name": "Pandit Nitin Mishra",
+      "description": "Performs Laghu Rudrabhishek.",
+      "phone": "9845123499",
+      "deity": "Shiva",
+      "latitude": 26.8645,
+      "longitude": 80.9442
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 10,
+    "fields": {
+      "name": "Pandit Omprakash Shukla",
+      "description": "Performs Ganga Aarti-like rituals.",
+      "phone": "9823145699",
+      "deity": "Ganga",
+      "latitude": 26.8655,
+      "longitude": 80.9480
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 11,
+    "fields": {
+      "name": "Pandit Jai Kishan",
+      "description": "Expert in Kundali and Astrology.",
+      "phone": "9798899221",
+      "deity": "Narayana",
+      "latitude": 26.8665,
+      "longitude": 80.9455
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 12,
+    "fields": {
+      "name": "Pandit Sudhir Pandya",
+      "description": "Performs Rudra Abhishek.",
+      "phone": "9887766554",
+      "deity": "Shiva",
+      "latitude": 26.8675,
+      "longitude": 80.9425
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 13,
+    "fields": {
+      "name": "Pandit Laxman Tripathi",
+      "description": "Expert in marriage rituals.",
+      "phone": "9812345670",
+      "deity": "Lakshmi",
+      "latitude": 26.8685,
+      "longitude": 80.9499
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 14,
+    "fields": {
+      "name": "Pandit Prakash Tiwari",
+      "description": "Performs Pitra Dosh Nivaran.",
+      "phone": "9876001122",
+      "deity": "Yamraj",
+      "latitude": 26.8695,
+      "longitude": 80.9433
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 15,
+    "fields": {
+      "name": "Pandit Ramesh Chaturvedi",
+      "description": "Specialist in Grah Pravesh.",
+      "phone": "9877002211",
+      "deity": "Ganesh",
+      "latitude": 26.8701,
+      "longitude": 80.9468
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 16,
+    "fields": {
+      "name": "Pandit Yogesh Sharma",
+      "description": "Performs Lakshmi Puja.",
+      "phone": "9990011223",
+      "deity": "Lakshmi",
+      "latitude": 26.8711,
+      "longitude": 80.9481
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 17,
+    "fields": {
+      "name": "Pandit Surendra Pandey",
+      "description": "Expert in Vastu Shanti.",
+      "phone": "9888899001",
+      "deity": "Brahma",
+      "latitude": 26.8721,
+      "longitude": 80.9471
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 18,
+    "fields": {
+      "name": "Pandit Gopal Jha",
+      "description": "Performs Chandi Path.",
+      "phone": "9811992233",
+      "deity": "Durga",
+      "latitude": 26.8731,
+      "longitude": 80.9449
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 19,
+    "fields": {
+      "name": "Pandit Keshav Dubey",
+      "description": "Performs Devathan Puja.",
+      "phone": "9877123456",
+      "deity": "Ram",
+      "latitude": 26.8741,
+      "longitude": 80.9459
+    }
+  },
+
+  {
+    "model": "pilgrimmage.pandit",
+    "pk": 20,
+    "fields": {
+      "name": "Pandit Pawan Tiwari",
+      "description": "Expert in Shrimad Bhagwat Katha.",
+      "phone": "9890012345",
+      "deity": "Krishna",
+      "latitude": 26.8751,
+      "longitude": 80.9421
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 1,
+    "fields": {
+      "name": "Shiva Mandir",
+      "deity": "Shiva",
+      "description": "Ancient Lord Shiva temple.",
+      "latitude": 26.8502,
+      "longitude": 80.9502
+    }
+  },
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 2,
+    "fields": {
+      "name": "Vishnu Mandir",
+      "deity": "Vishnu",
+      "description": "Peaceful Vishnu temple.",
+      "latitude": 26.8512,
+      "longitude": 80.9512
+    }
+  },
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 3,
+    "fields": {
+      "name": "Durga Mata Mandir",
+      "deity": "Durga",
+      "description": "Famous Durga shrine.",
+      "latitude": 26.8522,
+      "longitude": 80.9522
+    }
+  },
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 4,
+    "fields": {
+      "name": "Hanuman Garhi",
+      "deity": "Hanuman",
+      "description": "Popular Hanuman temple.",
+      "latitude": 26.8532,
+      "longitude": 80.9532
+    }
+  },
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 5,
+    "fields": {
+      "name": "Lakshmi Narayan Mandir",
+      "deity": "Lakshmi Narayan",
+      "description": "Very old temple.",
+      "latitude": 26.8542,
+      "longitude": 80.9542
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 6,
+    "fields": {
+      "name": "Ganesh Mandir",
+      "deity": "Ganesh",
+      "description": "Beautiful Ganesh idol.",
+      "latitude": 26.8552,
+      "longitude": 80.9552
+    }
+  },
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 7,
+    "fields": {
+      "name": "Ram Mandir",
+      "deity": "Ram",
+      "description": "Devotional place.",
+      "latitude": 26.8562,
+      "longitude": 80.9562
+    }
+  },
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 8,
+    "fields": {
+      "name": "Krishna Mandir",
+      "deity": "Krishna",
+      "description": "ISKCON-like environment.",
+      "latitude": 26.8572,
+      "longitude": 80.9572
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 9,
+    "fields": {
+      "name": "Kali Mandir",
+      "deity": "Kali",
+      "description": "Powerful divine energy.",
+      "latitude": 26.8582,
+      "longitude": 80.9582
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 10,
+    "fields": {
+      "name": "Saraswati Temple",
+      "deity": "Saraswati",
+      "description": "Students pray here.",
+      "latitude": 26.8592,
+      "longitude": 80.9592
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 11,
+    "fields": {
+      "name": "Brahma Mandir",
+      "deity": "Brahma",
+      "description": "Rare Brahma temple.",
+      "latitude": 26.8602,
+      "longitude": 80.9602
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 12,
+    "fields": {
+      "name": "Shani Dev Temple",
+      "deity": "Shani",
+      "description": "Visited on Saturdays.",
+      "latitude": 26.8612,
+      "longitude": 80.9612
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 13,
+    "fields": {
+      "name": "Surya Mandir",
+      "deity": "Surya",
+      "description": "Sunlight shines fully here.",
+      "latitude": 26.8622,
+      "longitude": 80.9622
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 14,
+    "fields": {
+      "name": "Gayatri Temple",
+      "deity": "Gayatri",
+      "description": "Known for chanting.",
+      "latitude": 26.8632,
+      "longitude": 80.9632
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 15,
+    "fields": {
+      "name": "Bhavani Mandir",
+      "deity": "Bhavani",
+      "description": "Ancient stone temple.",
+      "latitude": 26.8642,
+      "longitude": 80.9642
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 16,
+    "fields": {
+      "name": "Devi Mandir",
+      "deity": "Devi",
+      "description": "Very peaceful area.",
+      "latitude": 26.8652,
+      "longitude": 80.9652
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 17,
+    "fields": {
+      "name": "Balaji Temple",
+      "deity": "Balaji",
+      "description": "Powerful spiritual place.",
+      "latitude": 26.8662,
+      "longitude": 80.9662
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 18,
+    "fields": {
+      "name": "Jagannath Temple",
+      "deity": "Jagannath",
+      "description": "Mini Puri style.",
+      "latitude": 26.8672,
+      "longitude": 80.9672
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 19,
+    "fields": {
+      "name": "Mahadev Mandir",
+      "deity": "Shiva",
+      "description": "Crowded on Mondays.",
+      "latitude": 26.8682,
+      "longitude": 80.9682
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.temple",
+    "pk": 20,
+    "fields": {
+      "name": "Sankat Mochan Temple",
+      "deity": "Hanuman",
+      "description": "Very divine place.",
+      "latitude": 26.8692,
+      "longitude": 80.9692
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 1,
+    "fields": {
+      "name": "Spice Villa",
+      "cuisine": "Indian",
+      "rating": 4.5,
+      "latitude": 26.8702,
+      "longitude": 80.9502
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 2,
+    "fields": {
+      "name": "Taste of South",
+      "cuisine": "South Indian",
+      "rating": 4.3,
+      "latitude": 26.8712,
+      "longitude": 80.9512
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 3,
+    "fields": {
+      "name": "Punjabi Rasoi",
+      "cuisine": "Punjabi",
+      "rating": 4.6,
+      "latitude": 26.8722,
+      "longitude": 80.9522
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 4,
+    "fields": {
+      "name": "Chai Junction",
+      "cuisine": "Snacks & Tea",
+      "rating": 4.2,
+      "latitude": 26.8732,
+      "longitude": 80.9532
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 5,
+    "fields": {
+      "name": "Roti Ghar",
+      "cuisine": "Gujarati",
+      "rating": 4.4,
+      "latitude": 26.8742,
+      "longitude": 80.9542
+    }
+  },
+
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 6,
+    "fields": {
+      "name": "Chinese Bowl",
+      "cuisine": "Chinese",
+      "rating": 4.1,
+      "latitude": 26.8752,
+      "longitude": 80.9552
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 7,
+    "fields": {
+      "name": "Royal Biryani House",
+      "cuisine": "Biryani",
+      "rating": 4.8,
+      "latitude": 26.8762,
+      "longitude": 80.9562
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 8,
+    "fields": {
+      "name": "Veg Delight",
+      "cuisine": "Vegetarian",
+      "rating": 4.7,
+      "latitude": 26.8772,
+      "longitude": 80.9572
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 9,
+    "fields": {
+      "name": "Burger Hub",
+      "cuisine": "Fast Food",
+      "rating": 4.0,
+      "latitude": 26.8782,
+      "longitude": 80.9582
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 10,
+    "fields": {
+      "name": "Thali Express",
+      "cuisine": "Indian Thali",
+      "rating": 4.3,
+      "latitude": 26.8792,
+      "longitude": 80.9592
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 11,
+    "fields": {
+      "name": "Hunger Point",
+      "cuisine": "Snacks",
+      "rating": 4.1,
+      "latitude": 26.8802,
+      "longitude": 80.9602
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 12,
+    "fields": {
+      "name": "Tandoori Flames",
+      "cuisine": "Tandoori",
+      "rating": 4.6,
+      "latitude": 26.8812,
+      "longitude": 80.9612
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 13,
+    "fields": {
+      "name": "Café Aroma",
+      "cuisine": "Cafe",
+      "rating": 4.5,
+      "latitude": 26.8822,
+      "longitude": 80.9622
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 14,
+    "fields": {
+      "name": "Rolls & More",
+      "cuisine": "Kathi Rolls",
+      "rating": 4.4,
+      "latitude": 26.8832,
+      "longitude": 80.9632
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 15,
+    "fields": {
+      "name": "Pasta Street",
+      "cuisine": "Italian",
+      "rating": 4.2,
+      "latitude": 26.8842,
+      "longitude": 80.9642
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 16,
+    "fields": {
+      "name": "Momos Point",
+      "cuisine": "Tibetan",
+      "rating": 4.3,
+      "latitude": 26.8852,
+      "longitude": 80.9652
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 17,
+    "fields": {
+      "name": "Bengali Bites",
+      "cuisine": "Bengali",
+      "rating": 4.6,
+      "latitude": 26.8862,
+      "longitude": 80.9662
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 18,
+    "fields": {
+      "name": "Dosa Planet",
+      "cuisine": "South Indian",
+      "rating": 4.7,
+      "latitude": 26.8872,
+      "longitude": 80.9672
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 19,
+    "fields": {
+      "name": "Spice Hub",
+      "cuisine": "Indian",
+      "rating": 4.3,
+      "latitude": 26.8882,
+      "longitude": 80.9682
+    }
+  },
+
+  {
+    "model": "pilgrimmage.lunchspot",
+    "pk": 20,
+    "fields": {
+      "name": "Food Fiesta",
+      "cuisine": "Multi-Cuisine",
+      "rating": 4.4,
+      "latitude": 26.8892,
+      "longitude": 80.9692
+    }
+  }
+]
